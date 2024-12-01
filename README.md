@@ -7,3 +7,5 @@ Interesting this project? I have not much time, so we need more people who have 
 
 Q: How about bedrock?
 A: If using EndStone, it is already fast just lack of sandbox (which may not important to be main sell point, since it already fast), but depend on what playform you using, however for sandbox, it maybe next our goal, or you can make your new repo for that!
+
+PS: We plan to inspired by Forge or idk and yeah our LICENSE must compatible to that too; but some plan can changed idk
